@@ -3,7 +3,7 @@
 	width:200px;
 }
 #t11,#t12,#t13,#t21{
-	border:1px inset rbg(0,0,0);
+	border:1px solid rbg(0,0,0);
 }
 .center1{
 	width:200px;
