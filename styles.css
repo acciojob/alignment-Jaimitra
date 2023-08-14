@@ -2,7 +2,10 @@
 #t11,#t12,#t13{
 	width:200px;
 }
-.center{
+#t11{
+	border:1px solid rbg(0,0,0)
+}
+.center1{
 	width:200px;
 	text-align:center;
 }
